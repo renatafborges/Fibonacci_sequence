@@ -45,14 +45,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Kotlin](https://kotlinlang.org/)
 
 ### Autora
-
 ---
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Renata Borges</b></sub></a>
-
-
-Feito com ❤️ por Renata Borges 👋🏽 Entre em contato!
+<img src="63026376.png">
+<sub><b>Renata Borges</b></sub></a><br>
+Feito com ❤️ por Renata Borges 👋🏽 Entre em contato!<br>
 
 [![Twitter Badge](https://img.shields.io/badge/-@reehappy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/reehappy)](https://twitter.com/reehappy) [![Linkedin Badge](https://img.shields.io/badge/-Renata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-francis-borges-b6b056158/)](https://www.linkedin.com/in/renata-francis-borges-b6b056158/) 
 [![Gmail Badge](https://img.shields.io/badge/-renata.francisborges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renata.francisborges@gmail.com)](mailto:renata.francisborges@gmail.com)
