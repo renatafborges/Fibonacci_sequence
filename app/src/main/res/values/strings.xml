@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application_collections</string>
+    <string name="sequ_ncia_de_fibonacci">Sequência de Fibonacci</string>
+    <string name="insira_aqui_a_quantidade_de_n_meros">Insira aqui a quantidade de números</string>
+    <string name="calcular">Calcular</string>
+    <string name="aguardando">Aguardando...</string>
+</resources>
