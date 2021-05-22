@@ -1,5 +1,3 @@
-![Renata Borges] <img src="Xenon (1).png">
-
 <h1 align="center">Sequência de Fibonacci</h1>
 
 <h1 align="center">
